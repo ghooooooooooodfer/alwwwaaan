@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=15000000,RESOLUTION=3840x2160,NAME="4K UHD"
-http://skunkytv.live/play/live.php?mac=00:1A:79:44:C3:47&stream=1340998&extension=ts
+http://skunkytv.live/play/live.php?mac=00:1A:79:44:C3:47&stream=1340998&extension=m3u8
