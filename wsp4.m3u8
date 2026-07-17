@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=15000000,RESOLUTION=3840x2160,NAME="4K UHD"
+http://skunkytv.live/play/live.php?mac=00:1A:79:44:C3:47&stream=1340997&extension=ts
+
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="HD (1080p)"
+http://skunkytv.live/play/live.php?mac=00:1A:79:44:C3:47&stream=1340991&extension=ts
+
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,NAME="SD (576p)"
+http://skunkytv.live/play/live.php?mac=00:1A:79:44:C3:47&stream=1340985&extension=ts
