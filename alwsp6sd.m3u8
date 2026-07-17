@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=720x576,NAME="SD (576p)"
+http://skunkytv.live/play/live.php?mac=00:1A:79:44:C3:47&stream=1340983&extension=m3u8
